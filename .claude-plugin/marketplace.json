@@ -1,11 +1,20 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "spacecode-plugin",
   "description": "SpaceCode plugins for Claude Code — cloud dev environments, remote code execution, and CI",
-  "owner": "s-p-a-c-e-code",
+  "owner": {
+    "name": "SpaceCode",
+    "email": "support@spacecode.app"
+  },
   "plugins": [
     {
       "name": "spacecode",
       "description": "Run tasks, code reviews, and CI in ephemeral cloud sandboxes via SpaceCode MCP",
+      "version": "1.0.0",
+      "author": {
+        "name": "SpaceCode",
+        "email": "support@spacecode.app"
+      },
       "source": "./plugins/spacecode",
       "category": "Cloud Development"
     }
