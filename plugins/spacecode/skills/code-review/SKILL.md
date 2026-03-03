@@ -1,5 +1,5 @@
 ---
-name: cloud-review
+name: code-review
 description: Dispatch a code review to a cloud sandbox. Use when user says "cloud review", "remote review", "review my code remotely", or wants an independent code review from a separate Claude instance.
 ---
 

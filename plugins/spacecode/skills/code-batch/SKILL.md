@@ -1,5 +1,5 @@
 ---
-name: cloud-batch
+name: code-batch
 description: Run the same task across multiple repos in parallel. Use when user says "batch", "multi-repo", "across repos", "all repos", or wants to apply changes to several repositories at once.
 ---
 

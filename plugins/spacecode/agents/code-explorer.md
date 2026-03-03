@@ -1,5 +1,5 @@
 ---
-name: cloud-explorer
+name: code-explorer
 color: cyan
 description: |
   Use this agent when the user wants to explore or understand a codebase they don't have locally.
@@ -9,7 +9,7 @@ description: |
   <example>
   Context: User wants to understand an unfamiliar repo.
   user: "What does the owner/some-lib repo do? How is it structured?"
-  assistant: "I'll use the cloud-explorer agent to analyze that repo in a cloud sandbox."
+  assistant: "I'll use the code-explorer agent to analyze that repo in a cloud sandbox."
   <commentary>
   User wants to understand a repo they don't have — explore in cloud.
   </commentary>
@@ -18,7 +18,7 @@ description: |
   <example>
   Context: User wants to evaluate a dependency.
   user: "Can you look at how org/framework handles authentication?"
-  assistant: "I'll use the cloud-explorer agent to explore that repo's auth implementation."
+  assistant: "I'll use the code-explorer agent to explore that repo's auth implementation."
   <commentary>
   Exploring a specific aspect of an external repo.
   </commentary>
@@ -27,7 +27,7 @@ description: |
   <example>
   Context: User wants an architecture overview.
   user: "Give me an overview of the architecture of owner/big-project"
-  assistant: "I'll use the cloud-explorer agent to analyze the project architecture in a cloud sandbox."
+  assistant: "I'll use the code-explorer agent to analyze the project architecture in a cloud sandbox."
   <commentary>
   Architecture exploration of a remote repo.
   </commentary>

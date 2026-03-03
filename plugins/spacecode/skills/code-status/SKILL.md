@@ -1,5 +1,5 @@
 ---
-name: cloud-status
+name: code-status
 description: Check status of cloud tasks. Use when user says "cloud status", "task status", "check tasks", "what's running", or wants to see active/recent cloud sandbox tasks.
 ---
 

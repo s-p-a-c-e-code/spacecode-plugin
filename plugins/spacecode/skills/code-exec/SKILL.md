@@ -1,5 +1,5 @@
 ---
-name: cloud-exec
+name: code-exec
 description: Run a task in a cloud sandbox. Use when user says "run in cloud", "remote exec", "cloud sandbox", or wants to execute code/commands in an ephemeral environment.
 ---
 
