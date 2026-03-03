@@ -7,7 +7,7 @@
     "url": "https://spacecode.app"
   },
   "homepage": "https://spacecode.app",
-  "repository": "https://github.com/Andrejs1979/spacecode-plugin",
+  "repository": "https://github.com/s-p-a-c-e-code/spacecode-plugin",
   "license": "MIT",
   "keywords": ["cloud", "sandbox", "remote", "mcp", "ci", "code-review", "devops"]
 }
