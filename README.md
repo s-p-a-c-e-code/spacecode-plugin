@@ -5,7 +5,7 @@ Run tasks, code reviews, and CI in ephemeral cloud sandboxes — directly from C
 ## Install
 
 ```
-/plugin install github:spacecodeapp/spacecode-plugin
+/plugin install github:Andrejs1979/spacecode-plugin
 ```
 
 On first use, you'll be prompted to sign in with GitHub via OAuth. No API keys needed.
